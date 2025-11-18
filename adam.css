@@ -87,6 +87,7 @@ position: absolute;
 top: 45px;
 border-radius: 18px;
 border: 2px solid #ccc;
+    right: 20px;
 }
 
 .hamburger {
@@ -443,4 +444,5 @@ text-shadow: 0 10px 10px rgba(0,0,0,0.4);
 #kontakt h2 {
     text-align: center;
     font-size: 2.5em;
+
 }
