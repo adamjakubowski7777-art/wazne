@@ -426,7 +426,6 @@ text-decoration: none; /* Usunięcie podkreślenia */
 font-weight: 500;
 transition: color 0.3s;
 font-weight: bold;
-text-shadow: 0 10px 10px rgba(0,0,0,0.4);
 }
 
 .footer-links ul li a:hover {
@@ -444,4 +443,5 @@ color: black;
     font-size: 2.5em;
 
 }
+
 
